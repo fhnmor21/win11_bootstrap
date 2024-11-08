@@ -1,0 +1,2 @@
+wget https://gitlab.com/fhnmor21/kbd/-/raw/master/windows/us_asert.7z
+wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip
